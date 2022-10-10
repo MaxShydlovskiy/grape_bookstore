@@ -70,3 +70,8 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem 'grape'
+gem 'grape-entity'
+gem 'grape_on_rails_routes'
+gem 'faker'
